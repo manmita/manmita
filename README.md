@@ -1,7 +1,7 @@
 <h1 align="center">Hey There!!</h1>
 <p align="center">
 <p align="center">
-<img width="100" src="" alt="logo">
+<img width="100" src="https://github.com/manmita/manmita/blob/main/uwu.gif" alt="logo">
 </p>
 
 <h1 align="center">About Me ✨</h1>
@@ -19,7 +19,7 @@ I am Manmita Das and am currently pursuing Bachelor of Technology in Electronics
 
 <h1 align="center">Thanks for visiting 💕</h1>
 <p align="center">
-<img width="100" src="" alt="logo">
+<img width="100" src="https://github.com/manmita/manmita/blob/main/Kawaii%20Cute%20GIF%20-%20Kawaii%20Cute%20Thank%20You%20-%20Discover%20%26%20Share%20GIFs.gif" alt="logo">
 
 <!--
 **manmita/manmita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
