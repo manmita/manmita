@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">About Me ✨</h1>
-I am Manmita Das and am currently pursuing Bachelor of Technology in Electronics and Telecommunication Engineering. Dedicated to honing my skills in front-end and back-end technologies. Actively seeking opportunities to learn and contribute to innovative projects. 
+I am Manmita Das and I am currently pursuing Bachelor of Technology in Electronics and Telecommunication Engineering. Dedicated to honing my skills in front-end and back-end technologies. Actively seeking opportunities to learn and contribute to innovative projects. 
 
 ## GSSOC(24) Badges 🪶								
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>								
