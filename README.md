@@ -1,5 +1,7 @@
 <h1 align="center">Hey There!!</h1>
 <p align="center">
+<img width="100" src="https://komarev.com/ghpvc/?username=manmita&color=ff69b4" alt="logo">
+</p>
 <p align="center">
 <img width="100" src="https://github.com/manmita/manmita/blob/main/uwu.gif" alt="logo">
 </p>
