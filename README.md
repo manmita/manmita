@@ -7,17 +7,7 @@
 </p>
 
 <h1 align="center">About Me ✨</h1>
-I am Manmita Das and I am currently pursuing Bachelor of Technology in Electronics and Telecommunication Engineering. Dedicated to honing my skills in front-end and back-end technologies. Actively seeking opportunities to learn and contribute to innovative projects. 
-
-## GSSOC(24) Badges 🪶								
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>								
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />								
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />								
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />								
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />								
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />								
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />								
-</div>								
+I am Manmita Das and I am currently pursuing Bachelor of Technology in Electronics and Telecommunication Engineering. Dedicated to honing my skills in front-end and back-end technologies. Actively seeking opportunities to learn and contribute to innovative projects. 						
 
 <h1 align="center">Thanks for visiting 💕</h1>
 <p align="center">
